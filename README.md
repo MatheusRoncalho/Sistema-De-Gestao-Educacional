@@ -3,10 +3,15 @@ Projeto desenvolvido para fins acadêmicos, utilizando Java, aplicada para model
 O objetivo é permitir o cadastro e gerenciamento básico das entidades principais de uma instituição de ensino.
 ----
 Estrutura do projeto
+
 model/
+
 repository/
+
 service/
+
 ui/
+
 Main.java
 ----
 Descrição Geral
@@ -50,7 +55,9 @@ Relatórios:
 Como executar
 Clone o repositório:
 - git clone https://github.com/seu-usuario/seu-projeto.git
+
 Compile:
 - javac Main.java
+
 Execute:
 - Java main
