@@ -19,24 +19,30 @@ O sistema permite:
 - Organização em camadas seguindo boas práticas de engenharia de software
 ----
 Funcionalidades
+
 Cursos:
 - Cadastrar um curso EAD ou presencial
 - Buscar curso por código
 - Validação de duplicidade
+  
 Professores:
 - Cadastrar professor
 - Buscar professor por registro
 - Associar a turma
+  
 Alunos:
 - Cadastrar aluno
 - Buscar aluno por matrícula
 - Matrícula em turmas
 - Recebimento de avaliações
+  
 Turmas:
 - Criar turma vinculada a curso e professor
 - Matricular aluno na turma
+  
 Avaliações:
 - Registrar nota de um aluno em uma turma
+
 Relatórios:
 - Cada entidade implementa um método para gerar relatórios
 - Relatórios polimórficos listados via interface
