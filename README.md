@@ -54,7 +54,7 @@ Relatórios:
 ----
 Como executar
 Clone o repositório:
-- git clone https://github.com/seu-usuario/seu-projeto.git
+- git clone https://github.com/MatheusRoncalho/Sistema-De-Gestao-Educacional.git
 
 Compile:
 - javac Main.java
